@@ -9,4 +9,4 @@
 <br>
 Построение иерархии
 <br>
-<img src="images/image1.png" alt="" width="300"/>
+<img src="images/image2.png" alt="" width="300"/>
